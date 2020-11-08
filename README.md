@@ -1,2 +1,0 @@
-# 3tternp
-linxu language
